@@ -2,7 +2,7 @@
 
 This provider allows managing Elasticsearch followers index on remote clusters.
 
-It supports only basic features as they are based on our internal needs. lows 
+It supports only basic features as they are based on our internal needs.
 
 ## Build provider
 
